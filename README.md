@@ -1,3 +1,20 @@
 statux
 ======
-Nothing to see here, move along...
+
+Proof of concept usage of the Xbox Live API from Xbox Leaders.
+
+Built in a one day hack using only a web browser... how?
+
+tech behind it
+=====
+
+Cloud9 IDE with terminal access as the development environment
+Twitter Bootstrap for template
+Perl Dancer for the backend
+Dotcloud for hosting using API for pushing
+Github for versioning
+
+Live Sandbox
+=====
+
+http://statux-miguelcnf.dotcloud.com/
