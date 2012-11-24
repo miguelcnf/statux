@@ -1,7 +1,7 @@
 statux
 ======
 
-Proof of concept usage of the Xbox Live API from Xbox Leaders.
+Proof of concept of the Xbox Live API from Xbox Leaders usage.
 
 Built in a one day hack using only a web browser... how?
 
