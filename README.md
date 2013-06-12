@@ -17,4 +17,4 @@ tech behind it
 live sandbox
 =====
 
-http://statux-miguelcnf.dotcloud.com/
+Not available since dotcloud free sanboxes are gone!
